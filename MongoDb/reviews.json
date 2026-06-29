@@ -1,0 +1,72 @@
+[{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfe5" 
+  }, 
+  "user_id": "U001", 
+  "book_id": 1, 
+  "rating": 5, 
+  "review": "Excellent fantasy novel" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfe6" 
+  }, 
+  "user_id": "U002", 
+  "book_id": 2, 
+  "rating": 4, 
+  "review": "Adventure and fun" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfe7" 
+  }, 
+  "user_id": "U003", 
+  "book_id": 3, 
+  "rating": 5, 
+  "review": "Very relevant today" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38ac00b" 
+  }, 
+  "user_id": "U001", 
+  "book_id": 1, 
+  "rating": 5, 
+  "review": "Excellent fantasy novel" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38ac00c" 
+  }, 
+  "user_id": "U002", 
+  "book_id": 2, 
+  "rating": 4, 
+  "review": "Adventure and fun" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38ac00d" 
+  }, 
+  "user_id": "U003", 
+  "book_id": 3, 
+  "rating": 5, 
+  "review": "Very relevant today" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38ac00e" 
+  }, 
+  "user_id": "U004", 
+  "book_id": 4, 
+  "rating": 4, 
+  "review": "Interesting mystery" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38ac00f" 
+  }, 
+  "user_id": "U005", 
+  "book_id": 5, 
+  "rating": 5, 
+  "review": "Inspirational book" 
+}]

@@ -1,0 +1,105 @@
+[{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfda" 
+  }, 
+  "publisher_id": "P001", 
+  "name": "Bloomsbury" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfdb" 
+  }, 
+  "publisher_id": "P002", 
+  "name": "Houghton Mifflin" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfdc" 
+  }, 
+  "publisher_id": "P003", 
+  "name": "Penguin Books" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfdd" 
+  }, 
+  "publisher_id": "P004", 
+  "name": "Doubleday" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9d38d42975d5f38abfde" 
+  }, 
+  "publisher_id": "P005", 
+  "name": "HarperCollins" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff2" 
+  }, 
+  "publisher_id": "P001", 
+  "name": "Bloomsbury" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff3" 
+  }, 
+  "publisher_id": "P002", 
+  "name": "Houghton Mifflin" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff4" 
+  }, 
+  "publisher_id": "P003", 
+  "name": "Penguin Books" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff5" 
+  }, 
+  "publisher_id": "P004", 
+  "name": "Doubleday" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff6" 
+  }, 
+  "publisher_id": "P005", 
+  "name": "HarperCollins" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff7" 
+  }, 
+  "publisher_id": "P006", 
+  "name": "Random House" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff8" 
+  }, 
+  "publisher_id": "P007", 
+  "name": "Scholastic" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abff9" 
+  }, 
+  "publisher_id": "P008", 
+  "name": "Disney Hyperion" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abffa" 
+  }, 
+  "publisher_id": "P009", 
+  "name": "Warner Books" 
+}, 
+{ 
+  "_id": { 
+    "$oid": "6a3a9de7d42975d5f38abffb" 
+  }, 
+  "publisher_id": "P010", 
+  "name": "Vintage" 
+}] 
